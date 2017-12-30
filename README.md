@@ -1,0 +1,2 @@
+# Parallel-Euclidean-Hierachical-Minimum-Spanning-Forest-and-Minimum-Spanning-Tree
+Parallel Building Herarchical Euclidean Minimum Spanning Forest and final Minimum Spanning Tree. This methods combines  Benley's spiral search and Bor?vka's algorithm. We use massively parallel local spiral search to find each component's closest outgoing vertex in parallel, apply parallel Breadth-first Search algorithm to find Bor?vka's shortest outgoing edge.
